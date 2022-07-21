@@ -172,9 +172,75 @@ class: inverse, center, middle
 # Labor market adjustments
 
 ---
-### How does the labor market adjust?
+# How does the labor market adjust?
 
-#### Why are job losses relatively rare after minimum wage increases?
-- Schmitt (2015) explains several "channels of adjustment"
-- Today focus on Turnover, Prices, Reallocation.
-- 
+### The perfectly competitive model of the labor market:
+- The old-fashioned conventional view of economists is that workers are paid solely according to their productivity. 
+- If there is a minimum wage, employment clearly falls because
+  - Some workers will no longer be productive enough to hire
+  - Some firms will go out of business
+
+### Then why do we see little-to-no job loss?
+- The perfectly competitive model is wrong.
+- More generally, there are several "channels of adjustment", as described in Schmitt (2015).
+  - Specifically, let's focus on Turnover, Prices, Reallocation.
+
+---
+# Adjustment #1: Turnover
+- Low-wage labor market has tremendous employee turnover. In bottom quantile of wages:
+    - Every month, 10% of workers becomes newly employed/non-employed
+    - Every 3 months, 20% of workers becomes newly employed/non-employed
+
+- Employers of low-wage labor they set wages low enough such that they have vacancies and workers leaving jobs
+    - Higher wages actually make it easier to recruit/retain
+    - These savings reduce the costs of minimum wage policy
+
+- Dube Lester Reich (2016) show after minimum wage increases, restaurants
+    - hire fewer workers
+    - but fewer workers leave their job
+    - overall no net effect on employment
+---
+
+# Adjustment #2: Prices
+- Empirical evidence is clear that firms raise prices to cover increased labor costs
+- Perfectly competitive model predicts these price increases will lower demand and hence employment
+  - Consumer demand in reality seems price inelastic when many firms have small price increases
+  - Minimum wage helps to solve labor cost-price coordination problem.
+
+---
+
+# Adjustment #3: Reallocation
+
+Null effects on employment mask significant churn among firms and workers.
+
+<br>
+Dustmann et al (2022) found German minimum wage (affected 15% of workforce) had
+  - no effect on total number of low-wage workers
+  - caused low-wage workers to move to larger, higher wage businesses with more full-time jobs
+  - very small businesses more likely to shut down and average employment size went up
+
+<br>  
+Aaronson et al (2018) found minimum wages increase the number of US restaurants 
+  - going out of business, AND
+  - going into business
+  
+
+---
+# Consequences of minimum wages
+
+- **Job loss historically is relatively minimal**, much lower than naive predictions
+  - Median estimate in literature (and best estimates) imply low-wage workers have more income after minimum wage increases
+  
+- **Turnover reductions** imply that, even if there is job loss, "cost" of job loss is dispersed and not concentrated:
+  - Lower employment in a high turnover labor market means more weeks in-between jobs, but earning more at work
+  - Combined with OWE estimates, low-wage workers benefit from higher incomes even if there is job loss
+
+- **Consumer price increases** mean the minimum wage helps to reduce inequality: redistributes income from higher wage consumers to lower-wage workers.
+
+- **Reallocation** means minimum wage can upgrade the composition of employment 
+  - Low-productivity employers may go out of business
+  - But closures do not reduce worker incomes or employment levels
+
+
+
+
